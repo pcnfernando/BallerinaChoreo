@@ -1,6 +1,6 @@
 import ballerina/io;
 
-configurable string message = ?;
+string message = "Hello World !";
 public function main() {
     io:println(message);
 }
