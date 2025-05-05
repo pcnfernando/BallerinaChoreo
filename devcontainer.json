@@ -1,0 +1,12 @@
+{
+    "name": "Ballerina Dev Container",
+    "image": "",
+    "settings": {
+        "terminal.integrated.shell.linux": "ballerina/ballerina:latest",
+    },
+    "extensions": [
+        "ballerina.ballerina"
+    ],
+    "postCreateCommand": "bal build",
+    "remoteUser": "vscode"
+}
