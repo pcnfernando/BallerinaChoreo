@@ -1,6 +1,7 @@
 {
     "name": "Ballerina Dev Container",
     "image": "ballerina/ballerina:latest",
+    "platform": "linux/amd64",
     "extensions": [
         "ballerina.ballerina"
     ],
