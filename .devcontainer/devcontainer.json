@@ -1,11 +1,10 @@
 {
     "name": "Ballerina Dev Container",
     "image": "ballerina/ballerina:latest",
-    "platform": "linux/amd64",
     "customizations": {
         "vscode": {
           "extensions": ["WSO2.ballerina"]
         }
     },
-    "runArgs": ["--platform=linux/arm64"]
+    "runArgs": ["--platform=linux/amd64"]
 }
