@@ -6,5 +6,5 @@
           "extensions": ["WSO2.ballerina"]
         }
     },
-    "runArgs": ["--platform=linux/amd64"]
+    "runArgs": ["--platform=linux/arm64"]
 }
