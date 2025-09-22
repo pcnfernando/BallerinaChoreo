@@ -3,5 +3,5 @@ import ballerina/io;
 configurable string message = "Hello Devant!";
 
 public function main() {
-    io:println("Hello Devant! Welcome !!!");
+    io:println("Hello Devant! Welcome !");
 }
