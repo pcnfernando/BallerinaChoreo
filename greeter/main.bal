@@ -1,4 +1,4 @@
-import ballerina/io;
+// import ballerina/io;
 
 configurable string message = "Hello Devant!";
 
